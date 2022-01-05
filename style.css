@@ -4,6 +4,12 @@ h1{
     font-size: 50px;
     font-family: 'Alfa Slab One', cursive;
 }
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 50%;
+}
 h3{
     font-family: 'Satisfy', cursive;
     font-size: 45px;
@@ -11,6 +17,7 @@ h3{
 p{
     font-family: 'Didact Gothic', sans-serif;
     font-size: 23px;
+    text-align: justify;
 }
 .link-button{
     font-family: 'Didact Gothic', sans-serif;
@@ -27,11 +34,14 @@ body{
 }
 section{
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     
 }
 .color-orange{
     color: rgb(221, 140, 19);
+}
+.color-tomato{
+    color: tomato;
 }
 .two-div{
     width: 50%;
@@ -71,4 +81,29 @@ section{
     background-color: rgb(232, 240, 197);
     border-radius: 30px;
     padding: 20px 20px;
+}
+.section1{
+    background-image: url(images/shapes/shape-7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border-radius: 20px;
+}
+
+.section3{
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    padding-right: 25px;
+}
+.section4{
+    background-image: url(images/shapes/shape-9.png);
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color: rgb(21, 6, 54);
+    background-size: 100% 750px;
+    border-radius: 15px;
 }
