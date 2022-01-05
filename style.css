@@ -1,0 +1,74 @@
+
+
+h1{
+    font-size: 50px;
+    font-family: 'Alfa Slab One', cursive;
+}
+h3{
+    font-family: 'Satisfy', cursive;
+    font-size: 45px;
+}
+p{
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 23px;
+}
+.link-button{
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 15px;
+    border-radius: 15px;
+}
+body{
+    padding: 40px 40px;
+}
+section{
+    display: flex;
+    margin-bottom: 50px;
+    
+}
+.color-orange{
+    color: rgb(221, 140, 19);
+}
+.two-div{
+    width: 50%;
+    margin-left: 50px;
+}
+.three-div{
+    width: 33.33%;
+    margin-left: 30px;
+}
+.div-img{
+    width: 500px;
+    height: 500px;
+}
+.sec1h1{
+    border-left: 10px solid tomato;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.center-text{
+    text-align: center;
+}
+.illustrator{
+    height: 150px;
+    width: 150px;
+}
+.mission{
+    background-color: rgb(148, 233, 224);
+    border-radius: 30px;
+    padding: 20px 20px;
+}
+.vission{
+    background-color: rgb(240, 197, 240);
+    border-radius: 30px;
+    padding: 20px 20px;
+}
+.goal{
+    background-color: rgb(232, 240, 197);
+    border-radius: 30px;
+    padding: 20px 20px;
+}
