@@ -11,8 +11,9 @@ h2{
     line-height: 50%;
 }
 h3{
-    font-family: 'Satisfy', cursive;
-    font-size: 45px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    font-size: 38px;
 }
 p{
     font-family: 'Didact Gothic', sans-serif;
@@ -42,6 +43,9 @@ section{
 }
 .color-tomato{
     color: tomato;
+}
+.color-yellow{
+    color: yellow;
 }
 .two-div{
     width: 50%;
@@ -103,6 +107,8 @@ section{
 footer{
     color: white;
     text-align: center;
+    padding: 10px;
+    line-height: 50%;
     background-color: rgb(21, 6, 54);
     background-size: 100% 750px;
     border-radius: 15px;
