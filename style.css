@@ -63,8 +63,9 @@ section{
     height: 500px;
 }
 .div-img-sec4{
-    width: 400px;
-    height: 350px;
+    width: 420px;
+    height: 320px;
+    padding-left: 100px;
 }
 .sec1h1{
     border-left: 10px solid tomato;
@@ -109,7 +110,7 @@ section{
 .section4{
     background-image: url(images/shapes/shape-1.png);
     background-position: bottom right;
-    background-size: 200px 200px;
+    background-size: 150px 150px;
     background-repeat: no-repeat;
     border-radius: 20px;
 }
