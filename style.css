@@ -17,7 +17,7 @@ h3{
 }
 p{
     font-family: 'Didact Gothic', sans-serif;
-    font-size: 23px;
+    font-size: 20px;
     text-align: justify;
 }
 .link-button{
@@ -47,6 +47,9 @@ section{
 .color-yellow{
     color: yellow;
 }
+.color-green{
+    color: rgb(47, 114, 114);
+}
 .two-div{
     width: 50%;
     margin-left: 50px;
@@ -58,6 +61,10 @@ section{
 .div-img{
     width: 500px;
     height: 500px;
+}
+.div-img-sec4{
+    width: 400px;
+    height: 350px;
 }
 .sec1h1{
     border-left: 10px solid tomato;
@@ -100,7 +107,9 @@ section{
     padding-right: 25px;
 }
 .section4{
-    background-image: url(images/shapes/shape-9.png);
+    background-image: url(images/shapes/shape-1.png);
+    background-position: bottom right;
+    background-size: 200px 200px;
     background-repeat: no-repeat;
     border-radius: 20px;
 }
